@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "grunt": "1.5.3",
-    "grunt-contrib-jshint": "3.0.0",
+    "grunt-contrib-jshint": "3.2.0",
     "grunt-simple-mocha": "0.4.1",
     "mocha": "10.2.0",
     "promise": "8.3.0",
